@@ -1,5 +1,7 @@
 # xLSTM + Modern Transformer Workbench
 
+> This project was implemented and executed in a **Google Colab** environment.
+
 This repository contains one notebook:
 
 - `IFT6135_A2025_HW2_EN_Byungsuk_Min.ipynb`
