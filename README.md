@@ -160,7 +160,7 @@ It runs all tests and the full experiment pipeline end-to-end.
 
 ---
 
-# Modern Decoder Transformer (Modular Arithmetic)
+## Part 2: Modern Decoder Transformer (Modular Arithmetic)
 
 ### 1. Setup
 
